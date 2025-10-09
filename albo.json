@@ -1,0 +1,392 @@
+[
+  {
+    "stagione": "2024/2025",
+    "fantaleague": "Real Narciso",
+    "coppa_sgnacchera": "ABU",
+    "supercoppa_sgnacchera": "Real Narciso",
+    "lo_stronzino_d_oro": "Dream Tim",
+    "chimpules": "Viva la Fika!!",
+    "utenti": {
+      "fantaleague": null,
+      "coppa_sgnacchera": null,
+      "supercoppa_sgnacchera": null,
+      "lo_stronzino_d_oro": null,
+      "chimpules": null
+    }
+  },
+  {
+    "stagione": "2023/2024",
+    "fantaleague": "Dinamo B.C.",
+    "coppa_sgnacchera": "ABU",
+    "supercoppa_sgnacchera": "ABU",
+    "lo_stronzino_d_oro": "Partizan Brembano",
+    "chimpules": "Dream Tim",
+    "utenti": {
+      "fantaleague": null,
+      "coppa_sgnacchera": null,
+      "supercoppa_sgnacchera": null,
+      "lo_stronzino_d_oro": null,
+      "chimpules": null
+    }
+  },
+  {
+    "stagione": "2022/2023",
+    "fantaleague": "Paruch FC",
+    "coppa_sgnacchera": "Las Palmas",
+    "supercoppa_sgnacchera": "Paruch FC - Dinamo B.C.",
+    "lo_stronzino_d_oro": null,
+    "chimpules": null,
+    "utenti": {
+      "fantaleague": null,
+      "coppa_sgnacchera": null,
+      "supercoppa_sgnacchera": null,
+      "lo_stronzino_d_oro": null,
+      "chimpules": null
+    }
+  },
+  {
+    "stagione": "2021/2022",
+    "fantaleague": "ABU",
+    "coppa_sgnacchera": "Viva la Fika!!",
+    "supercoppa_sgnacchera": "Viva la Fika!!",
+    "lo_stronzino_d_oro": "AC Calcio Struzzo",
+    "chimpules": "Real Narciso",
+    "utenti": {
+      "fantaleague": null,
+      "coppa_sgnacchera": null,
+      "supercoppa_sgnacchera": null,
+      "lo_stronzino_d_oro": null,
+      "chimpules": null
+    }
+  },
+  {
+    "stagione": "2020/2021",
+    "fantaleague": "ABU",
+    "coppa_sgnacchera": "Real Narciso",
+    "supercoppa_sgnacchera": "Real Narciso",
+    "lo_stronzino_d_oro": "Las Palmas",
+    "chimpules": "Paruch FC",
+    "utenti": {
+      "fantaleague": null,
+      "coppa_sgnacchera": null,
+      "supercoppa_sgnacchera": null,
+      "lo_stronzino_d_oro": null,
+      "chimpules": null
+    }
+  },
+  {
+    "stagione": "2019/2020",
+    "fantaleague": "Partizan Brembano",
+    "coppa_sgnacchera": "Paruch FC",
+    "supercoppa_sgnacchera": "Paruch FC - Las Palmas",
+    "lo_stronzino_d_oro": null,
+    "chimpules": null,
+    "utenti": {
+      "fantaleague": null,
+      "coppa_sgnacchera": null,
+      "supercoppa_sgnacchera": null,
+      "lo_stronzino_d_oro": null,
+      "chimpules": null
+    }
+  },
+  {
+    "stagione": "2018/2019",
+    "fantaleague": "Black Diamond",
+    "coppa_sgnacchera": "Dream Tim",
+    "supercoppa_sgnacchera": "Black Diamond",
+    "lo_stronzino_d_oro": null,
+    "chimpules": null,
+    "utenti": {
+      "fantaleague": null,
+      "coppa_sgnacchera": null,
+      "supercoppa_sgnacchera": null,
+      "lo_stronzino_d_oro": null,
+      "chimpules": null
+    }
+  },
+  {
+    "stagione": "2017/2018",
+    "fantaleague": "Partizan Brembano",
+    "coppa_sgnacchera": "Black Diamond",
+    "supercoppa_sgnacchera": "Partizan Brembano",
+    "lo_stronzino_d_oro": null,
+    "chimpules": null,
+    "utenti": {
+      "fantaleague": null,
+      "coppa_sgnacchera": null,
+      "supercoppa_sgnacchera": null,
+      "lo_stronzino_d_oro": null,
+      "chimpules": null
+    }
+  },
+  {
+    "stagione": "2016/2017",
+    "fantaleague": "Viva la Fika!!",
+    "coppa_sgnacchera": "Vasco de Banhu",
+    "supercoppa_sgnacchera": "Vasco de Banhu",
+    "lo_stronzino_d_oro": null,
+    "chimpules": null,
+    "utenti": {
+      "fantaleague": null,
+      "coppa_sgnacchera": null,
+      "supercoppa_sgnacchera": null,
+      "lo_stronzino_d_oro": null,
+      "chimpules": null
+    }
+  },
+  {
+    "stagione": "2015/2016",
+    "fantaleague": "Dream Tim",
+    "coppa_sgnacchera": "A.C. Black Diamond",
+    "supercoppa_sgnacchera": "Dream Tim",
+    "lo_stronzino_d_oro": "ABU",
+    "chimpules": null,
+    "utenti": {
+      "fantaleague": null,
+      "coppa_sgnacchera": null,
+      "supercoppa_sgnacchera": null,
+      "lo_stronzino_d_oro": null,
+      "chimpules": null
+    }
+  },
+  {
+    "stagione": "2014/2015",
+    "fantaleague": "Real Narciso",
+    "coppa_sgnacchera": "Dinamo B.C.",
+    "supercoppa_sgnacchera": "Dinamo B.C.",
+    "lo_stronzino_d_oro": "Dream Tim",
+    "chimpules": null,
+    "utenti": {
+      "fantaleague": null,
+      "coppa_sgnacchera": null,
+      "supercoppa_sgnacchera": null,
+      "lo_stronzino_d_oro": null,
+      "chimpules": null
+    }
+  },
+  {
+    "stagione": "2013/2014",
+    "fantaleague": "Dinamo B.C.",
+    "coppa_sgnacchera": "Drepa 46",
+    "supercoppa_sgnacchera": "Drepa 46",
+    "lo_stronzino_d_oro": "Atletico Fico",
+    "chimpules": null,
+    "utenti": {
+      "fantaleague": null,
+      "coppa_sgnacchera": null,
+      "supercoppa_sgnacchera": null,
+      "lo_stronzino_d_oro": null,
+      "chimpules": null
+    }
+  },
+  {
+    "stagione": "2012/2013",
+    "fantaleague": "Vasco de Banhu",
+    "coppa_sgnacchera": "Vasco de Banhu",
+    "supercoppa_sgnacchera": "Vasco de Banhu",
+    "lo_stronzino_d_oro": "A.C. Black Diamond",
+    "chimpules": null,
+    "utenti": {
+      "fantaleague": null,
+      "coppa_sgnacchera": null,
+      "supercoppa_sgnacchera": null,
+      "lo_stronzino_d_oro": null,
+      "chimpules": null
+    }
+  },
+  {
+    "stagione": "2011/2012",
+    "fantaleague": "ABU",
+    "coppa_sgnacchera": "ABU",
+    "supercoppa_sgnacchera": "Dinamo B.C.",
+    "lo_stronzino_d_oro": "Sandoz United",
+    "chimpules": null,
+    "utenti": {
+      "fantaleague": null,
+      "coppa_sgnacchera": null,
+      "supercoppa_sgnacchera": null,
+      "lo_stronzino_d_oro": null,
+      "chimpules": null
+    }
+  },
+  {
+    "stagione": "2010/2011",
+    "fantaleague": "Drepa 46",
+    "coppa_sgnacchera": "Dream Tim",
+    "supercoppa_sgnacchera": "Drepa 46",
+    "lo_stronzino_d_oro": "A.C. Black Diamond",
+    "chimpules": null,
+    "utenti": {
+      "fantaleague": null,
+      "coppa_sgnacchera": null,
+      "supercoppa_sgnacchera": null,
+      "lo_stronzino_d_oro": null,
+      "chimpules": null
+    }
+  },
+  {
+    "stagione": "2009/2010",
+    "fantaleague": "Drepa 46",
+    "coppa_sgnacchera": "A.C. Black Diamond",
+    "supercoppa_sgnacchera": "Drepa 46",
+    "lo_stronzino_d_oro": "Sandoz United",
+    "chimpules": null,
+    "utenti": {
+      "fantaleague": null,
+      "coppa_sgnacchera": null,
+      "supercoppa_sgnacchera": null,
+      "lo_stronzino_d_oro": null,
+      "chimpules": null
+    }
+  },
+  {
+    "stagione": "2008/2009",
+    "fantaleague": "I Divanari",
+    "coppa_sgnacchera": "Dinamo B.C.",
+    "supercoppa_sgnacchera": "Dinamo B.C.",
+    "lo_stronzino_d_oro": "Orange Drinking Team",
+    "chimpules": null,
+    "utenti": {
+      "fantaleague": null,
+      "coppa_sgnacchera": null,
+      "supercoppa_sgnacchera": null,
+      "lo_stronzino_d_oro": null,
+      "chimpules": null
+    }
+  },
+  {
+    "stagione": "2007/2008",
+    "fantaleague": "Koala's Boys",
+    "coppa_sgnacchera": "Dinamo B.C.",
+    "supercoppa_sgnacchera": "Koala's Boys",
+    "lo_stronzino_d_oro": "I Tortelìni ripieni",
+    "chimpules": null,
+    "utenti": {
+      "fantaleague": null,
+      "coppa_sgnacchera": null,
+      "supercoppa_sgnacchera": null,
+      "lo_stronzino_d_oro": null,
+      "chimpules": null
+    }
+  },
+  {
+    "stagione": "2006/2007",
+    "fantaleague": "Sandoz United",
+    "coppa_sgnacchera": "Sandoz United",
+    "supercoppa_sgnacchera": "Sandoz United",
+    "lo_stronzino_d_oro": "Real Narciso",
+    "chimpules": null,
+    "utenti": {
+      "fantaleague": null,
+      "coppa_sgnacchera": null,
+      "supercoppa_sgnacchera": null,
+      "lo_stronzino_d_oro": null,
+      "chimpules": null
+    }
+  },
+  {
+    "stagione": "2005/2006",
+    "fantaleague": "Real Narciso",
+    "coppa_sgnacchera": "Drepa 46",
+    "supercoppa_sgnacchera": "Drepa 46",
+    "lo_stronzino_d_oro": "Sandoz United",
+    "chimpules": null,
+    "utenti": {
+      "fantaleague": null,
+      "coppa_sgnacchera": null,
+      "supercoppa_sgnacchera": null,
+      "lo_stronzino_d_oro": null,
+      "chimpules": null
+    }
+  },
+  {
+    "stagione": "2004/2005",
+    "fantaleague": "Involtini Primavera",
+    "coppa_sgnacchera": "Dream Tim",
+    "supercoppa_sgnacchera": "Involtini Primavera",
+    "lo_stronzino_d_oro": null,
+    "chimpules": null,
+    "utenti": {
+      "fantaleague": null,
+      "coppa_sgnacchera": null,
+      "supercoppa_sgnacchera": null,
+      "lo_stronzino_d_oro": null,
+      "chimpules": null
+    }
+  },
+  {
+    "stagione": "2003/2004",
+    "fantaleague": "Real Narciso",
+    "coppa_sgnacchera": "Real Narciso",
+    "supercoppa_sgnacchera": "Dream Tim",
+    "lo_stronzino_d_oro": null,
+    "chimpules": null,
+    "utenti": {
+      "fantaleague": null,
+      "coppa_sgnacchera": null,
+      "supercoppa_sgnacchera": null,
+      "lo_stronzino_d_oro": null,
+      "chimpules": null
+    }
+  },
+  {
+    "stagione": "2002/2003",
+    "fantaleague": "SIFC",
+    "coppa_sgnacchera": "ABU",
+    "supercoppa_sgnacchera": "SIFC",
+    "lo_stronzino_d_oro": null,
+    "chimpules": null,
+    "utenti": {
+      "fantaleague": null,
+      "coppa_sgnacchera": null,
+      "supercoppa_sgnacchera": null,
+      "lo_stronzino_d_oro": null,
+      "chimpules": null
+    }
+  },
+  {
+    "stagione": "2001/2002",
+    "fantaleague": "Dream Tim",
+    "coppa_sgnacchera": null,
+    "supercoppa_sgnacchera": null,
+    "lo_stronzino_d_oro": null,
+    "chimpules": null,
+    "utenti": {
+      "fantaleague": null,
+      "coppa_sgnacchera": null,
+      "supercoppa_sgnacchera": null,
+      "lo_stronzino_d_oro": null,
+      "chimpules": null
+    }
+  },
+  {
+    "stagione": "2000/2001",
+    "fantaleague": "Drepa 46",
+    "coppa_sgnacchera": null,
+    "supercoppa_sgnacchera": null,
+    "lo_stronzino_d_oro": null,
+    "chimpules": null,
+    "utenti": {
+      "fantaleague": null,
+      "coppa_sgnacchera": null,
+      "supercoppa_sgnacchera": null,
+      "lo_stronzino_d_oro": null,
+      "chimpules": null
+    }
+  },
+  {
+    "stagione": "1999/2000",
+    "fantaleague": "ABU",
+    "coppa_sgnacchera": null,
+    "supercoppa_sgnacchera": null,
+    "lo_stronzino_d_oro": null,
+    "chimpules": null,
+    "utenti": {
+      "fantaleague": null,
+      "coppa_sgnacchera": null,
+      "supercoppa_sgnacchera": null,
+      "lo_stronzino_d_oro": null,
+      "chimpules": null
+    }
+  }
+]
