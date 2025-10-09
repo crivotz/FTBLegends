@@ -7,11 +7,11 @@
     "lo_stronzino_d_oro": "Dream Tim",
     "chimpules": "Viva la Fika!!",
     "utenti": {
-      "fantaleague": null,
-      "coppa_sgnacchera": null,
-      "supercoppa_sgnacchera": null,
-      "lo_stronzino_d_oro": null,
-      "chimpules": null
+      "fantaleague": "Mauro",
+      "coppa_sgnacchera": "Giorgio",
+      "supercoppa_sgnacchera": "Mauro",
+      "lo_stronzino_d_oro": "Roberto",
+      "chimpules": "Marco"
     }
   },
   {
@@ -22,26 +22,26 @@
     "lo_stronzino_d_oro": "Partizan Brembano",
     "chimpules": "Dream Tim",
     "utenti": {
-      "fantaleague": null,
-      "coppa_sgnacchera": null,
-      "supercoppa_sgnacchera": null,
-      "lo_stronzino_d_oro": null,
-      "chimpules": null
+      "fantaleague": "Adriano",
+      "coppa_sgnacchera": "Giorgio",
+      "supercoppa_sgnacchera": "Giorgio",
+      "lo_stronzino_d_oro": "Manuel",
+      "chimpules": "Marco"
     }
   },
   {
     "stagione": "2022/2023",
     "fantaleague": "Paruch FC",
     "coppa_sgnacchera": "Las Palmas",
-    "supercoppa_sgnacchera": "Paruch FC - Dinamo B.C.",
+    "supercoppa_sgnacchera": "Paruch FC",
     "lo_stronzino_d_oro": null,
-    "chimpules": null,
+    "chimpules": "Dinamo B.C.",
     "utenti": {
-      "fantaleague": null,
-      "coppa_sgnacchera": null,
-      "supercoppa_sgnacchera": null,
+      "fantaleague": "Carlo",
+      "coppa_sgnacchera": "Francesco",
+      "supercoppa_sgnacchera": "Carlo",
       "lo_stronzino_d_oro": null,
-      "chimpules": null
+      "chimpules": "Adriano"
     }
   },
   {
@@ -52,11 +52,11 @@
     "lo_stronzino_d_oro": "AC Calcio Struzzo",
     "chimpules": "Real Narciso",
     "utenti": {
-      "fantaleague": null,
-      "coppa_sgnacchera": null,
-      "supercoppa_sgnacchera": null,
-      "lo_stronzino_d_oro": null,
-      "chimpules": null
+      "fantaleague": "Giorgio",
+      "coppa_sgnacchera": "Marco",
+      "supercoppa_sgnacchera": "Marco",
+      "lo_stronzino_d_oro": "Alessandro",
+      "chimpules": "Mauro"
     }
   },
   {
@@ -67,26 +67,26 @@
     "lo_stronzino_d_oro": "Las Palmas",
     "chimpules": "Paruch FC",
     "utenti": {
-      "fantaleague": null,
-      "coppa_sgnacchera": null,
-      "supercoppa_sgnacchera": null,
-      "lo_stronzino_d_oro": null,
-      "chimpules": null
+      "fantaleague": "Giorgio",
+      "coppa_sgnacchera": "Mauro",
+      "supercoppa_sgnacchera": "Mauro",
+      "lo_stronzino_d_oro": "Francesco",
+      "chimpules": "Carlo"
     }
   },
   {
     "stagione": "2019/2020",
     "fantaleague": "Partizan Brembano",
     "coppa_sgnacchera": "Paruch FC",
-    "supercoppa_sgnacchera": "Paruch FC - Las Palmas",
+    "supercoppa_sgnacchera": "Paruch FC",
     "lo_stronzino_d_oro": null,
-    "chimpules": null,
+    "chimpules": "Las Palmas",
     "utenti": {
-      "fantaleague": null,
-      "coppa_sgnacchera": null,
-      "supercoppa_sgnacchera": null,
+      "fantaleague": "Manuel",
+      "coppa_sgnacchera": "Carlo",
+      "supercoppa_sgnacchera": "Carlo",
       "lo_stronzino_d_oro": null,
-      "chimpules": null
+      "chimpules": "Francesco"
     }
   },
   {
@@ -97,9 +97,9 @@
     "lo_stronzino_d_oro": null,
     "chimpules": null,
     "utenti": {
-      "fantaleague": null,
-      "coppa_sgnacchera": null,
-      "supercoppa_sgnacchera": null,
+      "fantaleague": "Alberto",
+      "coppa_sgnacchera": "Roberto",
+      "supercoppa_sgnacchera": "Alberto",
       "lo_stronzino_d_oro": null,
       "chimpules": null
     }
@@ -112,9 +112,9 @@
     "lo_stronzino_d_oro": null,
     "chimpules": null,
     "utenti": {
-      "fantaleague": null,
-      "coppa_sgnacchera": null,
-      "supercoppa_sgnacchera": null,
+      "fantaleague": "Manuel",
+      "coppa_sgnacchera": "Alberto",
+      "supercoppa_sgnacchera": "Manuel",
       "lo_stronzino_d_oro": null,
       "chimpules": null
     }
@@ -127,9 +127,9 @@
     "lo_stronzino_d_oro": null,
     "chimpules": null,
     "utenti": {
-      "fantaleague": null,
-      "coppa_sgnacchera": null,
-      "supercoppa_sgnacchera": null,
+      "fantaleague": "Marco",
+      "coppa_sgnacchera": "Alessandro",
+      "supercoppa_sgnacchera": "Alessandro",
       "lo_stronzino_d_oro": null,
       "chimpules": null
     }
@@ -142,10 +142,10 @@
     "lo_stronzino_d_oro": "ABU",
     "chimpules": null,
     "utenti": {
-      "fantaleague": null,
-      "coppa_sgnacchera": null,
-      "supercoppa_sgnacchera": null,
-      "lo_stronzino_d_oro": null,
+      "fantaleague": "Roberto",
+      "coppa_sgnacchera": "Alberto",
+      "supercoppa_sgnacchera": "Roberto",
+      "lo_stronzino_d_oro": "Giorgio",
       "chimpules": null
     }
   },
@@ -157,10 +157,10 @@
     "lo_stronzino_d_oro": "Dream Tim",
     "chimpules": null,
     "utenti": {
-      "fantaleague": null,
-      "coppa_sgnacchera": null,
-      "supercoppa_sgnacchera": null,
-      "lo_stronzino_d_oro": null,
+      "fantaleague": "Mauro",
+      "coppa_sgnacchera": "Adriano",
+      "supercoppa_sgnacchera": "Adriano",
+      "lo_stronzino_d_oro": "Roberto",
       "chimpules": null
     }
   },
@@ -172,10 +172,10 @@
     "lo_stronzino_d_oro": "Atletico Fico",
     "chimpules": null,
     "utenti": {
-      "fantaleague": null,
-      "coppa_sgnacchera": null,
-      "supercoppa_sgnacchera": null,
-      "lo_stronzino_d_oro": null,
+      "fantaleague": "Adriano",
+      "coppa_sgnacchera": "Angelo",
+      "supercoppa_sgnacchera": "Angelo",
+      "lo_stronzino_d_oro": "Federico",
       "chimpules": null
     }
   },
@@ -187,10 +187,10 @@
     "lo_stronzino_d_oro": "A.C. Black Diamond",
     "chimpules": null,
     "utenti": {
-      "fantaleague": null,
-      "coppa_sgnacchera": null,
-      "supercoppa_sgnacchera": null,
-      "lo_stronzino_d_oro": null,
+      "fantaleague": "Alessandro",
+      "coppa_sgnacchera": "Alessandro",
+      "supercoppa_sgnacchera": "Alessandro",
+      "lo_stronzino_d_oro": "Alberto",
       "chimpules": null
     }
   },
@@ -202,10 +202,10 @@
     "lo_stronzino_d_oro": "Sandoz United",
     "chimpules": null,
     "utenti": {
-      "fantaleague": null,
-      "coppa_sgnacchera": null,
-      "supercoppa_sgnacchera": null,
-      "lo_stronzino_d_oro": null,
+      "fantaleague": "Giorgio",
+      "coppa_sgnacchera": "Giorgio",
+      "supercoppa_sgnacchera": "Adriano",
+      "lo_stronzino_d_oro": "Sandoz",
       "chimpules": null
     }
   },
@@ -217,10 +217,10 @@
     "lo_stronzino_d_oro": "A.C. Black Diamond",
     "chimpules": null,
     "utenti": {
-      "fantaleague": null,
-      "coppa_sgnacchera": null,
-      "supercoppa_sgnacchera": null,
-      "lo_stronzino_d_oro": null,
+      "fantaleague": "Angelo",
+      "coppa_sgnacchera": "Roberto",
+      "supercoppa_sgnacchera": "Angelo",
+      "lo_stronzino_d_oro": "Alberto",
       "chimpules": null
     }
   },
@@ -232,10 +232,10 @@
     "lo_stronzino_d_oro": "Sandoz United",
     "chimpules": null,
     "utenti": {
-      "fantaleague": null,
-      "coppa_sgnacchera": null,
-      "supercoppa_sgnacchera": null,
-      "lo_stronzino_d_oro": null,
+      "fantaleague": "Angelo",
+      "coppa_sgnacchera": "Alberto",
+      "supercoppa_sgnacchera": "Angelo",
+      "lo_stronzino_d_oro": "Sandoz",
       "chimpules": null
     }
   },
@@ -248,8 +248,8 @@
     "chimpules": null,
     "utenti": {
       "fantaleague": null,
-      "coppa_sgnacchera": null,
-      "supercoppa_sgnacchera": null,
+      "coppa_sgnacchera": "Adriano",
+      "supercoppa_sgnacchera": "Adriano",
       "lo_stronzino_d_oro": null,
       "chimpules": null
     }
@@ -262,10 +262,10 @@
     "lo_stronzino_d_oro": "I Tortelìni ripieni",
     "chimpules": null,
     "utenti": {
-      "fantaleague": null,
-      "coppa_sgnacchera": null,
-      "supercoppa_sgnacchera": null,
-      "lo_stronzino_d_oro": null,
+      "fantaleague": "Simone",
+      "coppa_sgnacchera": "Adriano",
+      "supercoppa_sgnacchera": "Simone",
+      "lo_stronzino_d_oro": "Marco",
       "chimpules": null
     }
   },
@@ -277,10 +277,10 @@
     "lo_stronzino_d_oro": "Real Narciso",
     "chimpules": null,
     "utenti": {
-      "fantaleague": null,
-      "coppa_sgnacchera": null,
-      "supercoppa_sgnacchera": null,
-      "lo_stronzino_d_oro": null,
+      "fantaleague": "Sandoz",
+      "coppa_sgnacchera": "Sandoz",
+      "supercoppa_sgnacchera": "Sandoz",
+      "lo_stronzino_d_oro": "Mauro",
       "chimpules": null
     }
   },
@@ -292,10 +292,10 @@
     "lo_stronzino_d_oro": "Sandoz United",
     "chimpules": null,
     "utenti": {
-      "fantaleague": null,
-      "coppa_sgnacchera": null,
-      "supercoppa_sgnacchera": null,
-      "lo_stronzino_d_oro": null,
+      "fantaleague": "Mauro",
+      "coppa_sgnacchera": "Angelo",
+      "supercoppa_sgnacchera": "Angelo",
+      "lo_stronzino_d_oro": "Sandoz",
       "chimpules": null
     }
   },
@@ -308,7 +308,7 @@
     "chimpules": null,
     "utenti": {
       "fantaleague": null,
-      "coppa_sgnacchera": null,
+      "coppa_sgnacchera": "Roberto",
       "supercoppa_sgnacchera": null,
       "lo_stronzino_d_oro": null,
       "chimpules": null
@@ -322,9 +322,9 @@
     "lo_stronzino_d_oro": null,
     "chimpules": null,
     "utenti": {
-      "fantaleague": null,
-      "coppa_sgnacchera": null,
-      "supercoppa_sgnacchera": null,
+      "fantaleague": "Mauro",
+      "coppa_sgnacchera": "Mauro",
+      "supercoppa_sgnacchera": "Roberto",
       "lo_stronzino_d_oro": null,
       "chimpules": null
     }
@@ -338,7 +338,7 @@
     "chimpules": null,
     "utenti": {
       "fantaleague": null,
-      "coppa_sgnacchera": null,
+      "coppa_sgnacchera": "Giorgio",
       "supercoppa_sgnacchera": null,
       "lo_stronzino_d_oro": null,
       "chimpules": null
@@ -352,7 +352,7 @@
     "lo_stronzino_d_oro": null,
     "chimpules": null,
     "utenti": {
-      "fantaleague": null,
+      "fantaleague": "Roberto",
       "coppa_sgnacchera": null,
       "supercoppa_sgnacchera": null,
       "lo_stronzino_d_oro": null,
@@ -362,7 +362,7 @@
   {
     "stagione": "2000/2001",
     "fantaleague": "Drepa 46",
-    "coppa_sgnacchera": null,
+    "coppa_sgnacchera": "Angelo",
     "supercoppa_sgnacchera": null,
     "lo_stronzino_d_oro": null,
     "chimpules": null,
@@ -382,7 +382,7 @@
     "lo_stronzino_d_oro": null,
     "chimpules": null,
     "utenti": {
-      "fantaleague": null,
+      "fantaleague": "Giorgio",
       "coppa_sgnacchera": null,
       "supercoppa_sgnacchera": null,
       "lo_stronzino_d_oro": null,
