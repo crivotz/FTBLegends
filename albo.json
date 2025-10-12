@@ -247,10 +247,10 @@
     "lo_stronzino_d_oro": "Orange Drinking Team",
     "chimpules": null,
     "utenti": {
-      "fantaleague": null,
+      "fantaleague": "Marco",
       "coppa_sgnacchera": "Adriano",
       "supercoppa_sgnacchera": "Adriano",
-      "lo_stronzino_d_oro": null,
+      "lo_stronzino_d_oro": "Alberto",
       "chimpules": null
     }
   },
@@ -307,9 +307,9 @@
     "lo_stronzino_d_oro": null,
     "chimpules": null,
     "utenti": {
-      "fantaleague": null,
+      "fantaleague": "Marco",
       "coppa_sgnacchera": "Roberto",
-      "supercoppa_sgnacchera": null,
+      "supercoppa_sgnacchera": "Marco",
       "lo_stronzino_d_oro": null,
       "chimpules": null
     }
@@ -337,9 +337,9 @@
     "lo_stronzino_d_oro": null,
     "chimpules": null,
     "utenti": {
-      "fantaleague": null,
+      "fantaleague": "Alessandro",
       "coppa_sgnacchera": "Giorgio",
-      "supercoppa_sgnacchera": null,
+      "supercoppa_sgnacchera": "Alessandro",
       "lo_stronzino_d_oro": null,
       "chimpules": null
     }
