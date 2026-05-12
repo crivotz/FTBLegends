@@ -24,6 +24,7 @@ Per aggiungere una nuova stagione o modificare i vincitori:
 ## Dipendenze
 
 - [Bootstrap 5](https://getbootstrap.com/)
+- [Bootstrap icons](https://icons.getbootstrap.com/)
 - [ApexCharts](https://apexcharts.com/)
 
 Entrambe le librerie sono caricate tramite CDN, non è necessario installare nulla.
