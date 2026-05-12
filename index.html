@@ -116,10 +116,18 @@
       const conteggi = squadreOrdinato.map(([_, count]) => count);
 
       // Colori diversi per ogni squadra (puoi personalizzare la palette)
-      const palette = [
-        "#0d6efd", "#6610f2", "#6f42c1", "#d63384", "#dc3545",
-        "#fd7e14", "#ffc107", "#198754", "#20c997", "#0dcaf0"
-      ];
+     const palette = [
+       "#0d6efd", // blu
+       "#dc3545", // rosso
+       "#198754", // verde
+       "#ffc107", // giallo
+       "#6610f2", // viola
+       "#6f42c1", // indaco
+       "#d63384", // fucsia
+       "#fd7e14", // arancione
+       "#20c997", // verde acqua
+       "#0dcaf0"  // azzurro
+     ];
       const colorsSquadre = squadre.map((_, i) => palette[i % palette.length]);
 
       // Chart squadre con legenda cliccabile
