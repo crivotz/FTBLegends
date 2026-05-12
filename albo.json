@@ -1,5 +1,20 @@
 [
   {
+    "stagione": "2025/2026",
+    "fantaleague": "Potafogo",
+    "coppa_sgnacchera": null,
+    "supercoppa_sgnacchera": null,
+    "lo_stronzino_d_oro": null,
+    "chimpules": null,
+    "utenti": {
+      "fantaleague": "Gabriele",
+      "coppa_sgnacchera": null,
+      "supercoppa_sgnacchera": null,
+      "lo_stronzino_d_oro": null,
+      "chimpules": null
+    }
+  },
+  {
     "stagione": "2024/2025",
     "fantaleague": "Real Narciso",
     "coppa_sgnacchera": "ABU",
